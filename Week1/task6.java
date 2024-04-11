@@ -2,7 +2,7 @@ package Task.Week1;
 
 public class task6 {
     public static void main(String[] args) {
-        /*6. WAP that prints the following output:
+/*6. WAP that prints the following output:
 
 A well-formed Java program has a main method with { and } braces.
 
